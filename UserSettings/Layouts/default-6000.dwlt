@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 2560
     height: 1349
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Inspector
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 332}
   m_MaxSize: {x: 10000, y: 10000}
@@ -119,7 +119,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 105
+  controlID: 413
   draggingID: 0
 --- !u!114 &6
 MonoBehaviour:
@@ -145,7 +145,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 106
+  controlID: 414
   draggingID: 0
 --- !u!114 &7
 MonoBehaviour:
@@ -171,7 +171,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 107
+  controlID: 415
   draggingID: 0
 --- !u!114 &8
 MonoBehaviour:
@@ -423,23 +423,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: c0981000
-      m_LastClickedID: 1087680
-      m_ExpandedIDs: 7adbfcff1afefcff7029fdff3848fdff5a54fdff6a60fdff1085fdffbc27ffff302dffffc030ffffee36ffff943cffff183fffff243fffffbeb3ffff7cfaffffdab800001ebb0000debd00000ccc000006d400008cd90000bcdd000098711000f48010006089100082941000c0981000ae991000
+      m_SelectedIDs: 08350100
+      m_LastClickedID: 79112
+      m_ExpandedIDs: 3a1effff0835010018430100
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: camerafolloo
+        m_OriginalName: camerafolloo
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: 73104
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_TrimLeadingAndTrailingWhitespace: 0
         m_ClientGUIView: {fileID: 8}
@@ -945,9 +945,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: -13.376475, y: 14.063325, z: 39.27688}
+    m_Target: {x: -6.0373516, y: 6.9529467, z: 38.114338}
     speed: 2
-    m_Value: {x: -13.376475, y: 14.063325, z: 39.27688}
+    m_Value: {x: -6.0373516, y: 6.9529467, z: 38.114338}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -993,9 +993,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.1339009, y: 0.8314703, z: -0.49065775, w: 0.22480018}
+    m_Target: {x: 0.24717666, y: 0.73521227, z: -0.33909044, w: 0.53285795}
     speed: 2
-    m_Value: {x: 0.13386393, y: 0.8312407, z: -0.49052227, w: 0.2247381}
+    m_Value: {x: 0.24710833, y: 0.735009, z: -0.33899668, w: 0.5327106}
   m_Size:
     m_Target: 3.0562277
     speed: 2
@@ -1203,7 +1203,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/script/TrafficLight
+    - Assets
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1213,16 +1213,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/script/TrafficLight
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: "C:\\Users\\cyuan2003\\OneDrive - Goldsmiths College\\\u684C\u9762\\programming1"
+  m_LastProjectPath: "C:\\Users\\cyuan2003\\OneDrive - Goldsmiths College\\\u6587\u6863\\GitHub\\programming111"
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: d8ef0000
-    m_LastClickedID: 61400
-    m_ExpandedIDs: 000000007aed000050ef000052ef0000d6ef000000ca9a3bffffff7f
+    m_SelectedIDs: 80500100
+    m_LastClickedID: 86144
+    m_ExpandedIDs: 000000008050010000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1251,7 +1251,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000007aed0000
+    m_ExpandedIDs: 000000008050010000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1279,7 +1279,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000e6320200f4f3000094f50000000000003a360400365b010018850100d67f0200b2600100106703006c610100b2260800f0302500
     m_RenameOverlay:
       m_UserAcceptedRename: 0
