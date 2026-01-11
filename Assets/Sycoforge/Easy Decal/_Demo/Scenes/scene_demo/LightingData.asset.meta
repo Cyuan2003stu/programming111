@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cdc2787d3a1806e4eae84031bf4ba03b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22867
+  packageName: Easy Decal
+  packageVersion: 2021.4.1
+  assetPath: Assets/Sycoforge/Easy Decal/_Demo/Scenes/scene_demo/LightingData.asset
+  uploadId: 468367

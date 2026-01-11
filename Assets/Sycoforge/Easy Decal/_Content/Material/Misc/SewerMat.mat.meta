@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 49d2b6f2210c8524daec41ec29b5a052
+timeCreated: 1468236966
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22867
+  packageName: Easy Decal
+  packageVersion: 2021.4.1
+  assetPath: Assets/Sycoforge/Easy Decal/_Content/Material/Misc/SewerMat.mat
+  uploadId: 468367

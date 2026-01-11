@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4d7329df7c1005045b2dacccdb57828c
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22867
+  packageName: Easy Decal
+  packageVersion: 2021.4.1
+  assetPath: Assets/Sycoforge/Easy Decal/Shader/SSD/MaskDeferred.shader
+  uploadId: 468367

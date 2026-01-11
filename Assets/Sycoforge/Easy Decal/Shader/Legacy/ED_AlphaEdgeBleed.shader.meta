@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: b6a1da801a7f0a9489541715fd3553f2
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22867
+  packageName: Easy Decal
+  packageVersion: 2021.4.1
+  assetPath: Assets/Sycoforge/Easy Decal/Shader/Legacy/ED_AlphaEdgeBleed.shader
+  uploadId: 468367

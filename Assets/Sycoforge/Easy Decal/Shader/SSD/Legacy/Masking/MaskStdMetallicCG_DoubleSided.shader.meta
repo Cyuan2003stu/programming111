@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8975415ff437a734c81ad942931df13b
+timeCreated: 1490629597
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22867
+  packageName: Easy Decal
+  packageVersion: 2021.4.1
+  assetPath: Assets/Sycoforge/Easy Decal/Shader/SSD/Legacy/Masking/MaskStdMetallicCG_DoubleSided.shader
+  uploadId: 468367

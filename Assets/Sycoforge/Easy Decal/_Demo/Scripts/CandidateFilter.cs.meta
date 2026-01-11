@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c363275828b5e1f48a99f2563be497f4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22867
+  packageName: Easy Decal
+  packageVersion: 2021.4.1
+  assetPath: Assets/Sycoforge/Easy Decal/_Demo/Scripts/CandidateFilter.cs
+  uploadId: 468367

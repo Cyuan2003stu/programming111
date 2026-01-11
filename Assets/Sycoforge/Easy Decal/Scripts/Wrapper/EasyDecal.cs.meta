@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a4fa72f5d8fb11a4dabb6a8d9b56963a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22867
+  packageName: Easy Decal
+  packageVersion: 2021.4.1
+  assetPath: Assets/Sycoforge/Easy Decal/Scripts/Wrapper/EasyDecal.cs
+  uploadId: 468367

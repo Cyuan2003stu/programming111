@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3624c5bba91ffcd49bb2e3a60c06b5ea
+timeCreated: 1463049157
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22867
+  packageName: Easy Decal
+  packageVersion: 2021.4.1
+  assetPath: Assets/Editor Default Resources/nu Assets/Shared/Shaders/UnlitTextureColorAlpha.shader
+  uploadId: 468367

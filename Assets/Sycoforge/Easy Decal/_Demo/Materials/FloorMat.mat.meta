@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 34567988c5676eb4c883efdb3a92cccb
+timeCreated: 1467032733
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22867
+  packageName: Easy Decal
+  packageVersion: 2021.4.1
+  assetPath: Assets/Sycoforge/Easy Decal/_Demo/Materials/FloorMat.mat
+  uploadId: 468367

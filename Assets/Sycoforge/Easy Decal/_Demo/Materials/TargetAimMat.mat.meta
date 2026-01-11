@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b0d579ee580e0ae4f863527168baf2e9
+timeCreated: 1467033910
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22867
+  packageName: Easy Decal
+  packageVersion: 2021.4.1
+  assetPath: Assets/Sycoforge/Easy Decal/_Demo/Materials/TargetAimMat.mat
+  uploadId: 468367

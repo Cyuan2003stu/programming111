@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d5eba787becab104ca389bff6b827604
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22867
+  packageName: Easy Decal
+  packageVersion: 2021.4.1
+  assetPath: Assets/Sycoforge/Easy Decal/Scripts/Editor/Shortcuts.cs
+  uploadId: 468367

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3ad3974767d1041418e77f256ffc3aad
+timeCreated: 1467616144
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22867
+  packageName: Easy Decal
+  packageVersion: 2021.4.1
+  assetPath: Assets/Sycoforge/Easy Decal/Shader/SSD/Legacy/DSSD.shader
+  uploadId: 468367

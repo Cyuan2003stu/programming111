@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8001fdea92b2e18429dee858d9c955d2
+timeCreated: 1458748145
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22867
+  packageName: Easy Decal
+  packageVersion: 2021.4.1
+  assetPath: Assets/Editor Default Resources/nu Assets/Shared/Shaders/CanvasSelection.shader
+  uploadId: 468367

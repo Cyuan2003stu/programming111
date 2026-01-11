@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fa11c47f64bd57046b7ae157dbf99200
+timeCreated: 1468222132
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22867
+  packageName: Easy Decal
+  packageVersion: 2021.4.1
+  assetPath: Assets/Sycoforge/Easy Decal/_Demo/Materials/TunnelMat.mat
+  uploadId: 468367

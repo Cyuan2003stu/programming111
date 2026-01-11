@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ddca74e9d6a9d5e40bc2f8d9cdeb1607
+timeCreated: 1458804414
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22867
+  packageName: Easy Decal
+  packageVersion: 2021.4.1
+  assetPath: Assets/Editor Default Resources/nu Assets/Shared/Shaders/CanvasOpaque.shader
+  uploadId: 468367

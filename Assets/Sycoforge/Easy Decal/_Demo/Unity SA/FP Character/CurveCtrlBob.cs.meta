@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 1d1752586491068458924beb0920b2b4
+timeCreated: 1468396011
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22867
+  packageName: Easy Decal
+  packageVersion: 2021.4.1
+  assetPath: Assets/Sycoforge/Easy Decal/_Demo/Unity SA/FP Character/CurveCtrlBob.cs
+  uploadId: 468367

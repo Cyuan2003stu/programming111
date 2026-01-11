@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6e9d99b24d804264aba05024759f5d13
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22867
+  packageName: Easy Decal
+  packageVersion: 2021.4.1
+  assetPath: Assets/Sycoforge/Easy Decal/Shader/SSD/Legacy/ssd_unlit_add.shader
+  uploadId: 468367

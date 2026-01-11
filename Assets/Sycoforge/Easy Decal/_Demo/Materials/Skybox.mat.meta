@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0045cc0b51186b543af4d723450d2bbb
+timeCreated: 1445419144
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22867
+  packageName: Easy Decal
+  packageVersion: 2021.4.1
+  assetPath: Assets/Sycoforge/Easy Decal/_Demo/Materials/Skybox.mat
+  uploadId: 468367

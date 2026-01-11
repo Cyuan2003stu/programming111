@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fb52b8d29b227414184f7e660e969c3a
+timeCreated: 1467563021
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22867
+  packageName: Easy Decal
+  packageVersion: 2021.4.1
+  assetPath: Assets/Sycoforge/Easy Decal/Shader/SSD/Legacy/ssd_unlit_multiply.shader
+  uploadId: 468367

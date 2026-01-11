@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e31592ef38ba8ab4481bc756012842e5
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22867
+  packageName: Easy Decal
+  packageVersion: 2021.4.1
+  assetPath: Assets/Sycoforge/Shared/Scripts/Editor/ch.sycoforge.Unity.Editor.dll.mdb
+  uploadId: 468367

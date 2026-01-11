@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0eab47deef8172d4d8f0696ffec2c2ba
+timeCreated: 1467032733
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22867
+  packageName: Easy Decal
+  packageVersion: 2021.4.1
+  assetPath: Assets/Sycoforge/Easy Decal/_Demo/Materials/WallMat.mat
+  uploadId: 468367

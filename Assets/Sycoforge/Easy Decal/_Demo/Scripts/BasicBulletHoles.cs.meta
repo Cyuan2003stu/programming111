@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3fbd2b885805f10469b679972286a183
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22867
+  packageName: Easy Decal
+  packageVersion: 2021.4.1
+  assetPath: Assets/Sycoforge/Easy Decal/_Demo/Scripts/BasicBulletHoles.cs
+  uploadId: 468367

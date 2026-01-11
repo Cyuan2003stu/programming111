@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: dd074007a26839041a8b4f687034860d
+timeCreated: 1468395990
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22867
+  packageName: Easy Decal
+  packageVersion: 2021.4.1
+  assetPath: Assets/Sycoforge/Easy Decal/_Demo/Unity SA/Patricles/Shader/PriorityParticleAlpha.shader
+  uploadId: 468367

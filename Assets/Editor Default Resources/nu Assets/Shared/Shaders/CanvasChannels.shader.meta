@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 28ceb848241e6eb4ebe7602678e1b917
+timeCreated: 1459678407
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22867
+  packageName: Easy Decal
+  packageVersion: 2021.4.1
+  assetPath: Assets/Editor Default Resources/nu Assets/Shared/Shaders/CanvasChannels.shader
+  uploadId: 468367

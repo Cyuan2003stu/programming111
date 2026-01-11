@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2dff5eee1abf5a84ebf70bbfb03ba62a
+timeCreated: 1467563021
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22867
+  packageName: Easy Decal
+  packageVersion: 2021.4.1
+  assetPath: Assets/Sycoforge/Easy Decal/Shader/SSD/Legacy/ssd_unlit_alpha.shader
+  uploadId: 468367

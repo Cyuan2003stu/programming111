@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b0c764fafbafefd4f8182162ba4df1c2
+timeCreated: 1476442801
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 22867
+  packageName: Easy Decal
+  packageVersion: 2021.4.1
+  assetPath: Assets/Sycoforge/Easy Decal/Shader/SSD/Legacy/Masking/MaskStdSpecularCG.shader
+  uploadId: 468367
